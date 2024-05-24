@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsirin&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetsirin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetsirin" alt="ahmetsirin" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Deep Learning, Machine Learning ,Reinforcement Learning,Statistics for Data ,Data Visualization, Django ,Pytorch ,OpenCv ,Seaborn , Pandas**
 
@@ -29,4 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetsirin&show_icons=true&locale=en" alt="ahmetsirin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetsirin&" alt="ahmetsirin" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetsirin" alt="ahmetsirin" /></a> </p>
+
 
